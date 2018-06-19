@@ -1,0 +1,16 @@
+org\openshift\quickstarts\processserver\library\Library$1.class
+org\openshift\quickstarts\processserver\library\Library$AttemptLoan.class
+org\openshift\quickstarts\processserver\library\types\SuggestionRequest.class
+org\openshift\quickstarts\processserver\library\types\LoanResponse.class
+org\openshift\quickstarts\processserver\library\types\ReturnRequest.class
+org\openshift\quickstarts\processserver\library\Library$GetFirstAvailableBooks.class
+org\openshift\quickstarts\processserver\library\types\SuggestionResponse.class
+org\openshift\quickstarts\processserver\library\types\ReturnResponse.class
+org\openshift\quickstarts\processserver\library\Library.class
+org\openshift\quickstarts\processserver\library\Library$ReturnLoan.class
+org\openshift\quickstarts\processserver\library\types\Loan.class
+org\openshift\quickstarts\processserver\library\types\Book.class
+org\openshift\quickstarts\processserver\library\LibraryTransaction.class
+org\openshift\quickstarts\processserver\library\types\LoanRequest.class
+org\openshift\quickstarts\processserver\library\types\Suggestion.class
+org\openshift\quickstarts\processserver\library\Library$Init.class
